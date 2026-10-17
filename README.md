@@ -19,3 +19,9 @@ Semoga FILKOM dapat menjadi tempat yang nyaman untuk belajar, mengembangkan kema
 -- Tujuan Belajar GitHub --
 
 Saya ingin mempelajari cara menggunakan GitHub untuk menyimpan proyek, mengelola perubahan kode, dan berkolaborasi dalam pengerjaan tugas.
+
+-- Harapan Selama Kuliah --
+
+Saya berharap dapat memahami pemrograman dengan baik,
+mengembangkan kemampuan bekerja sama, dan menyelesaikan
+perkuliahan dengan hasil yang memuaskan.
